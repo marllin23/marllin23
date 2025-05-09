@@ -11,7 +11,7 @@ Sou um desenvolvedor front-end apaixonado por criar experiências incríveis na 
 
 ## 📂 Projetos:
 - [Chatbot Interativo](https://github.com/marllin23/chatbot): Um chatbot interativo com efeito de digitação e personalizações.
-- - [Dashboard interativo ](https://github.com/marllin23/Dashboard-interativo):  consiste em um Dashboard Interativo, seu objetivo é criar uma interface visualmente atraente para a apresentação de dados, usando gráficos interativos que podem ser atualizados e manipulados
+- [Dashboard interativo ](https://github.com/marllin23/Dashboard-interativo):  consiste em um Dashboard Interativo, seu objetivo é criar uma interface visualmente atraente para a apresentação de dados, usando gráficos interativos que podem ser atualizados e manipulados
 
 ## 📈 Estatísticas:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marllin23&show_icons=true&hide_title=true)
